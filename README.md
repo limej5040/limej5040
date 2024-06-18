@@ -20,7 +20,7 @@
 <div class="Contact">
     <h2>📇 Contact</h2>
     <ul>
-        <li>Email | <a href="eun19th@naver.com">eun19th@naver.com</a></li>
+        <li>Email | <a href="limeun5040@gmail.com">limeun5040@gmaill.com</a></li>
         <li>Blog | <a href="https://limej5040.tistory.com/">https://limej5040.tistory.com/</a></li>
         <li>Portfolio | <a href="#"></a></li>
     </ul>
