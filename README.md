@@ -53,7 +53,7 @@
 </div>
 <div class="project">
     <h2>📍 Projects</h2>
-    <h3>1 <a href="[https://github.com/limej5040/everycare/tree/master/everycare](https://github.com/limej5040/everycare)">everycare</a></h3>
+    <h3>1 <a href="https://github.com/limej5040/everycare">everycare</a></h3>
     <blockquote>
         <p> 병원동행 서비스 (팀프로젝트)
             <br>
