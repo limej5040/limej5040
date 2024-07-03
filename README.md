@@ -64,7 +64,7 @@
             Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery
         </p>
         <p>
-            <a href="#">프로젝트 상세 설명</a> / <a href="#">프로젝트 영상</a>
+            <a href="https://github.com/limej5040/everycare">프로젝트 상세 설명</a> / <a href="#">프로젝트 영상</a>
         </p>
     </blockquote>
 </div>
