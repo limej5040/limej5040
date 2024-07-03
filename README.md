@@ -6,12 +6,9 @@
 <!-- 내용 부분 -->
 ## Hi there 👋
 ## 새로운 것이 흥미로운 개발자 임은정입니다
-<br>
- 🙋🏻‍♀️About me 
-<br>
 
 <div class="introduction">
-    <h2>Introduction</h2>
+    <h2>🙋🏻‍♀️ Introduction</h2>
     <ul>
         <li>꾸준함의 힘을 믿는 편입니다 느리더라도 날마다 조금씩 앞으로 나아가는 사람이 되겠습니다</li>
         <li>가독성이 좋은 코드가 곧 좋은 코드로 가는데 첫걸음이라고 생각합니다.</li>
@@ -54,7 +51,7 @@
 </div>
 <div class="project">
     <h2>📍 Projects</h2>
-    <h3>1 <a href="https://github.com/limej5040/everycare">everycare</a></h3>
+    <h3>1.<a href="https://github.com/limej5040/everycare">everycare</a></h3>
     <blockquote>
         <p> 병원동행 서비스 (팀프로젝트)
             <br>
