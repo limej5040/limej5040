@@ -66,3 +66,18 @@
         </p>
     </blockquote>
 </div>
+<div class="project">
+    <h3>2.<a href="https://github.com/limej5040/flea-market">Flea market</a></h3>
+    <blockquote>
+        <p>  (개인프로젝트)
+            <br>
+            개발 기간 : 2024.07.04 ~ 
+        </p>
+        <p> 기술스택 : 
+            Spring Framework, Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery, AJAX, JSON
+        </p>
+        <p>
+            <a href="https://github.com/limej5040/flea-market">프로젝트 상세 설명</a> / <a href="#">프로젝트 영상</a>
+        </p>
+    </blockquote>
+</div>
