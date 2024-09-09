@@ -62,7 +62,5 @@
             <br>
             Oracle, Java, Jsp, Tomcat, Html, Css, Javascript, jQuery
         </p>
-        
-    </blockquote>
 </div>
 
